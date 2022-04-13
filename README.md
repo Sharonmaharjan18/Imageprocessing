@@ -1,3 +1,4 @@
+General  introduction
 • What is image processing? 
 • Applications
 • Python + OpenCV
